@@ -1,0 +1,5 @@
+?:admin
+?:password
+?:qwerty
+
+3 password hashes cracked, 0 left

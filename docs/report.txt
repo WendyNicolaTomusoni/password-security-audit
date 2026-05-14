@@ -1,0 +1,18 @@
+Password Security Audit Project
+
+Objective:
+To identify weak passwords using John the Ripper.
+
+Tool Used:
+- John the Ripper
+- Kali Linux WSL
+- Git & GitHub
+
+Attack Method:
+Dictionary Attack on MD5 hashes.
+
+Findings:
+Weak passwords such as admin, password, and qwerty were successfully cracked.
+
+Conclusion:
+Weak passwords create major security risks. Strong password policies and multi-factor authentication are recommended.
