@@ -13,7 +13,7 @@ To identify weak passwords through dictionary attacks on MD5 hashes.
 ## Results
 Weak passwords such as admin, password, and qwerty were successfully cracked.
 
-##Code
+
 ## Install John the Ripper
 
 ```bash
